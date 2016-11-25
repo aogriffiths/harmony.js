@@ -1,0 +1,20 @@
+{
+  "name": "harmony.js",
+  "version": "1.0.0",
+  "description": "create harmonies!",
+  "main": "lib/index.js",
+  "keywords": "music theory harmony harmonic",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aogriffiths/harmony.js"
+  },
+  "author": "Adam Griffiths",
+  "license": "MIT",
+  "dependencies": {
+    "fraction.js": "^3.3.1",
+    "mathjs": "^3.8.0"
+  }
+}
